@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portable-power-station.lifeofmorr.com/sitemap.xml
